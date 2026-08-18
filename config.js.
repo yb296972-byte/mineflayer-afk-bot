@@ -2,7 +2,7 @@
 
 
 module.exports = {
-	host: 'youcef_exe2013-TrfE.aternos.me:54856’,
+	host: 'youcef_exe2013-TrfE.aternos.me’,
     port:’54856’,
     username: 'bot',
     password: '',
