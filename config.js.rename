@@ -2,8 +2,8 @@
 
 
 module.exports = {
-	host: 'play.eternal.gs',
-    port: 25565,
+	host: 'youcef_exe2013.aternos.me:29673',
+    port: 29673,
     username: '',
     password: '',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
