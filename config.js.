@@ -7,5 +7,5 @@ module.exports = {
     username: 'bot',
     password: 'rrrr',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
-	auth: 'mojang'
+	auth: 'Cracked'
 };
