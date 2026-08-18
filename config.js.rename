@@ -4,8 +4,8 @@
 module.exports = {
 	host: 'youcef_exe2013.aternos.me:29673',
     port: 29673,
-    username: '',
-    password: '',
+    username: 'bot',
+    password: 'rrrr',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
 	auth: 'mojang'
 };
